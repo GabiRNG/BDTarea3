@@ -1,3 +1,4 @@
+#Importamos las dependencias necesarias desde Spark a este script
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import from_json, col, window
 from pyspark.sql.types import StructType, StructField, IntegerType, FloatType, TimestampType
