@@ -6,9 +6,11 @@
     * Almacenar los resultados procesados.
 
 Instrucciones de uso:
-1. X
+1. Para la implementación de dicho código se creo un archivo llamado Tarea3, por medio del comando nano Tarea3.py donde se agregó todo el código anterior.
 
+2. Luego probamos que el correcto funcionamiento del código implementando en Spark, primero ejecutamos con usuario hadoop el spark por medio del comando, ¨pyspark¨.
 
+3. Ejecutamos mi archivo Python por medio del comando ¨python3 Tarea3.py¨. para que podamos observar el correcto funcionamiento.
 
 -----------------------------------------------------
 
