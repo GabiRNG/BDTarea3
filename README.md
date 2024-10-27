@@ -10,7 +10,7 @@ Instrucciones de uso:
 
 
 
-
+-----------------------------------------------------
 
 * Procesamiento en tiempo real (Spark Streaming & Kafka):
     * Configurar un topic en Kafka para simular la llegada de datos en tiempo real (usar un generador de datos).
@@ -23,7 +23,7 @@ Instrucciones de uso:
    En caso de presentarse un error de permisos, estos se pueden ejecutar en primer plano, pero para esto, cada una de las ejecuciones
    se debe hacer en una terminal independiente a las demás, una terminal para cada servidor (total de 2).
 
-En OTRA TERMINAL->
+EN OTRA TERMINAL->
 
 2. Segundo, en una terminal independiente, se ejecuta el script Productor con: 'python3 kafka_producer.py'
    Es importante que primero se ejecute el script de productor antes que el de consumidor. 
