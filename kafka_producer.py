@@ -1,4 +1,4 @@
-#Importamos las dependencias necesarias desde Kafka a este producer
+#Importamos las dependencias necesarias desde Kafka a este script
 import time
 import json
 import random
